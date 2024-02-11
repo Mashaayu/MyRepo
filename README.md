@@ -1,4 +1,4 @@
 # MyRepo
 This is for just Git practice
 <br>
-Author - Ayushi
+Author - Ayushi (Radix web)
